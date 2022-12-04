@@ -9,7 +9,7 @@ if __name__ == "__main__":
     
     aa = add(a, b)
     bb = sub(a, b)
-    cc =  mul(a, b)
+    cc = mul(a, b)
     dd = div(a, b)
 
     print("{} + {} = {}".format(a, b, aa))
