@@ -1,4 +1,4 @@
-Resources
+# Resources
 Read or watch:
 
 7.2. Reading and Writing Files
@@ -8,10 +8,11 @@ JSON encoder and decoder
 Learn to Program 8 : Reading / Writing Files
 Automate the Boring Stuff with Python (ch. 8 p 180-183 and ch. 14 p 326-333)
 All about py-file I/O
-Learning Objectives
+
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+# General
 Why Python programming is awesome
 How to open a file
 How to write text in a file
@@ -25,13 +26,15 @@ What is serialization
 What is deserialization
 How to convert a Python data structure to a JSON string
 How to convert a JSON string to a Python data structure
-Copyright - Plagiarism
+
+# Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-Python Scripts
+
+# Requirements
+## Python Scripts
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
@@ -40,7 +43,8 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the pycodestyle (version 2.8.*)
 All your files must be executable
 The length of your files will be tested using wc
-Python Test Cases
+
+# Python Test Cases
 Allowed editors: vi, vim, emacs
 All your files should end with a new line
 All your test files should be inside a folder tests
