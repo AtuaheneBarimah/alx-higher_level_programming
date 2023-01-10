@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-Square = __import__('10-square').Square
+MyInt = __import__('100-my_int').MyInt
 
-s = Square(13)
-
-print(s)
-print(s.area())
+my_i = MyInt(3)
+print(my_i)
+print(my_i == 3)
+print(my_i != 3)
