@@ -1,9 +1,2 @@
 #!/usr/bin/node
-
-exports.converter = function (base) {
-  function myConverter (n) {
-    return n.toString(base);
-  }
-
-  return myConverter;
-};
+exports.list = [1, 2, 3, 4, 5];
